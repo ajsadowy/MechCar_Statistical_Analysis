@@ -14,6 +14,9 @@ This analysis is to review data on the MechaCar's performance data.
 ![Pic](https://github.com/ajsadowy/MechCar_Statistical_Analysis/blob/main/images/Deliverable1.png)
 
 ### Summary Statistics on Suspension Coils   
+![Pic](https://github.com/ajsadowy/MechCar_Statistical_Analysis/blob/main/images/Total_Suspension_Coil.png)   
+![Pic](https://github.com/ajsadowy/MechCar_Statistical_Analysis/blob/main/images/Suspension_Coils_by_Lots.png)  
+
 
 ### T-Tests on Suspension Coils   
 
