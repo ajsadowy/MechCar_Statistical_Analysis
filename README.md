@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis   
 
 ## Overview   
-This analysis is to review data on the MechaCar's performance data.   ]
+This analysis is to review data on the MechaCar's performance data.   
 
 ### Objectives   
 * Find which variables closely predicts the MPG for vehicle prototypes.   
@@ -11,7 +11,7 @@ This analysis is to review data on the MechaCar's performance data.   ]
 
 ## Results   
 ### Linear Regression to Predict MPG   
-
+![Pic](https://github.com/ajsadowy/MechCar_Statistical_Analysis/blob/main/images/Deliverable1.png)
 
 ### Summary Statistics on Suspension Coils   
 
