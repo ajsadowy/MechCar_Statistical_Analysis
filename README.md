@@ -19,6 +19,7 @@ This analysis is to review data on the MechaCar's performance data.
 
 
 ### T-Tests on Suspension Coils   
+![Pic](https://github.com/ajsadowy/MechCar_Statistical_Analysis/blob/main/images/Deliverable3.png)
 
 ### Study Design: MechaCar vs Market Competition   
 
